@@ -1,4 +1,4 @@
-# 📰 Hacker News Scraper API
+# 📰 Api Scrap
 
 API en PHP que realiza *web scraping* a [Hacker News](https://news.ycombinator.com) y devuelve artículos en formato JSON. 
 Incluye cacheo para evitar múltiples requests innecesarios y cuenta con tests automatizados utilizando PHPUnit.
