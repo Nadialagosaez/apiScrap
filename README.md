@@ -86,6 +86,12 @@ Los resultados se almacenan temporalmente en un archivo local (/tmp/cache.json) 
 El tiempo de cacheo está definido por TIMECACHE = 100000 (en segundos).
 Si el archivo cache existe y no ha expirado, se usa directamente.
 
+#### Limpiar cache
+
+```bash
+./clear-cache.sh
+```
+
 </br>
 
 ## 🛠️ Tecnologías usadas
